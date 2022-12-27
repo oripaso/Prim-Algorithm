@@ -1,7 +1,3 @@
-/** Ori Paso : 209493683
- * Yonatan Hammer : 206844409 */
-
-
 
 
 package test;
